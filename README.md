@@ -1,3 +1,4 @@
 # demo_project
-This is my first Git Repository
-author - Abhishek Shukla
+This is my first Git Repository.
+<br>
+Author - Abhishek Shukla
